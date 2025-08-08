@@ -1,0 +1,3 @@
+Answer this simple question with a JSON array containing just the number:
+
+1. What is 2 + 2?

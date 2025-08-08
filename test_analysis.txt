@@ -1,0 +1,6 @@
+Using the provided movie data, answer these questions in JSON array format:
+
+1. How many movies are in the dataset?
+2. What is the highest grossing movie?
+3. What is the average gross revenue (just the number)?
+4. Create a simple bar chart of the top 3 movies and return as base64 data URI.

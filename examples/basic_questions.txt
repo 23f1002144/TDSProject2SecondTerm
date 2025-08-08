@@ -1,0 +1,5 @@
+Analyze the provided movie data and return a simple JSON array with:
+
+1. The total number of movies in the dataset
+2. The movie with the highest gross revenue  
+3. The average year of release

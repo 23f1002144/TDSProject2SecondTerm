@@ -1,0 +1,6 @@
+Analyze the provided movie data and answer the following questions in JSON array format:
+
+1. What is the average worldwide gross of these movies?
+2. How many movies grossed over $2 billion?
+3. What is the correlation between Rank and Worldwide_Gross?
+4. Create a bar chart showing the top 5 movies by gross revenue. Return as base64 data URI.
